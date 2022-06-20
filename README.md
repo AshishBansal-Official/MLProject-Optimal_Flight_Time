@@ -5,3 +5,6 @@ In this project, a supervised learning model is build to find the optimal flight
 
 The supervised machine learning algorithm used is : 
 - Random Forest
+
+The framework used to make frontend is :
+- Flask
